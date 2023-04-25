@@ -1,1 +1,3 @@
 # Grafika
+A féléves feladatom témájának, egy analóg óra elkészitését választottam.
+A feladat az lenne, hogy egy analóg órát kell megvalósítani . Az órának három mutatója van: az óramutató, a percmutató és a másodpercmutató. A mutatók helyzete az aktuális időtől függ. Az órát kerek alakú kerettel kell körbevenni, ami lehetőleg esztétikus és valósághű legyen. Az óra számlapján számok helyett jelölések legyenek (pl. római számok), és lehetőleg a számlap is legyen valósághű. Az óra által mutatott idő folyamatosan frissüljön a program futása közben. Az órának legyen valamilyen háttérvilágítása, amelynek fényerejét lehet állítani. 
