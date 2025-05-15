@@ -1,0 +1,5 @@
+A féléves feladatom a következő lesz:
+Egy interkativ jelenetet fogok késziteni, ami egy szobában fog játszódni, a szobában lesznek 3D modellek, még nem tudom mik, de valószinuleg szék asztal, stb. 
+A felhasználó ezt körbejárhatja, objektumokhoz közelebb mehet és fényüket állithatja.
+Lesz lehetősége objektumokat, pl széket mozgatni.
+A falakra textúra lesz betöltve
