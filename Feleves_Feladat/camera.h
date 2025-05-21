@@ -16,4 +16,5 @@ void camera_apply_transform(const Camera* cam);
 void camera_handle_event(Camera* cam, SDL_Event* event);
 void camera_update(Camera* cam, const Uint8* keyboard_state, float deltaTime);
 
+
 #endif

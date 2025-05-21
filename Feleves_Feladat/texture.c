@@ -21,6 +21,8 @@ GLuint loadTexture(const char* filename) {
                  surface->w, surface->h,
                  0, mode, GL_UNSIGNED_BYTE, surface->pixels);
 
+
+
     glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
     glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
 

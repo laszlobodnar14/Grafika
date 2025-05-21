@@ -8,4 +8,4 @@ GLuint loadBMPTexture(const char* filepath);
 void drawWall(float x, float y, float z, float width, float height, GLuint texture);
 void drawFloor(float x, float y, float z, float width, float depth, GLuint texture);
 
-#endif // TEXTURE_H
+#endif

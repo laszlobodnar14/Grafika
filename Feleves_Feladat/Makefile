@@ -2,7 +2,7 @@ CC = gcc
 CFLAGS = -Wall -std=c11 -I.
 LIBS = -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lopengl32 -lglu32
 
-SRC = main.c camera.c texture.c room.c
+SRC = main.c camera.c texture.c room.c model.c
 OBJ = $(SRC:.c=.o)
 TARGET = szoba.exe
 
